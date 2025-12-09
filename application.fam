@@ -1,0 +1,14 @@
+App(
+    appid="ruler",
+    name="Ruler",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ruler_app",
+    stack_size=1 * 1024,
+    fap_category="Tools",
+    fap_icon="ruler_10px.png",
+    fap_description="Digital ruler application that displays a 1:1 scale ruler on screen",
+    fap_author="Claude",
+    fap_version="1.0",
+    requires=["gui"],
+    fap_libs=["assets"],
+)
