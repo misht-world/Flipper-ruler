@@ -13,6 +13,8 @@ A digital ruler application for Flipper Zero that displays a 1:1 scale ruler on 
 
 ## Screenshots
 
+![Flipper Zero Ruler in Action](Screenshot-20251209-215915.png)
+
 The ruler displays on Flipper Zero's 128x64 pixel screen, providing measurements up to approximately 3 cm.
 
 ## Technical Details
@@ -121,6 +123,19 @@ MIT License - See LICENSE file for details
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
+
+## Support the Project
+
+If this application has been helpful and you'd like to support its development:
+
+### Cryptocurrency
+- **Bitcoin:** `bc1qy5la5xsswx2hnukf76x5g2spjpvf6n7ak56rnu`
+- **Ethereum:** `0x75F27F55Fa87d13C267c304E7e3a0afeB0f660a9`
+
+### Traditional
+- **PayPal:** [paypal.me/MikhailZhi](https://www.paypal.com/paypalme/MikhailZhi)
+
+Your support helps maintain and improve this project. Thank you! 🙏
 
 ## Credits
 
