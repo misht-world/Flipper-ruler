@@ -135,8 +135,6 @@ If this application has been helpful and you'd like to support its development:
 ### Traditional
 - **PayPal:** [paypal.me/MikhailZhi](https://www.paypal.com/paypalme/MikhailZhi)
 
-Your support helps maintain and improve this project. Thank you! 🙏
-
 ## Credits
 
 Created with assistance from Claude AI
